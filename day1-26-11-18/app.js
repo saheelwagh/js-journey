@@ -23,7 +23,7 @@ fetch(URL)
     .catch(function (error) {
         console.error();
     });
-/*
+    /*
      function createNode(element) {
       return document.createElement(element);
   }
